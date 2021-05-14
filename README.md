@@ -2,9 +2,9 @@
 <img src="https://user-images.githubusercontent.com/35954925/86511942-df5cd500-bdfd-11ea-913d-60e9a5c707a5.png" width="224"/>
 </div>
 
-# FlutterTestApp
+# NextJsTestApp
 
-My personal test of [NestJs](https://nextjs.org)
+My personal test of [NextJs](https://nextjs.org)
 
 
 ## Getting Started
