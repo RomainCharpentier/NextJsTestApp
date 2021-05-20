@@ -17,6 +17,5 @@ $ npm install
 
 ### Run Server
 ```
-$ cd nextjs-blog
 $ npm run dev
 ```
